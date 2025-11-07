@@ -1,0 +1,15 @@
+streamlit>=1.25.0
+genai
+plotly
+pandas
+openpyxl
+streamlit-lottie
+firebase-admin
+google-cloud-storage
+google-generativeai
+requests
+python-multipart
+streamlit-option-menu
+streamlit-extras
+Pillow
+plotly-express
